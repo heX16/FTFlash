@@ -11,10 +11,10 @@
 The photo of my breadboard shows a 0.1 µF decoupling capacitor to ground placed the the 3.3V line next to the regulator. It's probably not mandatory, but is a good idea to include on the output rail of linear voltage regulators to smooth out high frequency noise on the the supply line.
 
 ```
-D0 - CLK
-D1 - MOSI -> DI
-D2 - MISO -> DO
-D3 - CS
+AD0 - CLK
+AD1 - MOSI -> DI
+AD2 - MISO -> DO
+AD3 - CS
 ```
 
 ### Device and Memory Inspection
